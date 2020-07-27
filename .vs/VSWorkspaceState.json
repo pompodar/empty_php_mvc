@@ -2,11 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\app",
+    "\\app\\controllers",
     "\\app\\core",
     "\\app\\models",
     "\\app\\views",
-    "\\app\\views\\home"
+    "\\app\\views\\home",
+    "\\app\\views\\js"
   ],
-  "SelectedNode": "\\app\\views\\home\\index.php",
+  "SelectedNode": "\\app\\views\\js\\script.js",
   "PreviewInSolutionExplorer": false
 }
